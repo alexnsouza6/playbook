@@ -8,7 +8,7 @@ A ferramenta usada para a confecção do demonstrativo financeiro é o ZeroPaper
 
 - Localize o extrato bancário do mês desejado, ele estará localizado no drive da CJR, na pasta “Extratos” (CJR->NOE->Financeiro->[ano atual]->Extratos).
 
-- Na barra lateral esquerda da página inicial do ZeroPaper clique em: “Movimentações”-> “Importar extrato bancário”->”Importar outro arquivo”->”Ok”->”Selecione um arquivo”. Localize na pasta “.otf” o arquivo correspondente ao mês do demonstrativo e importe-o para o ZeroPaper, depois clique em “Enviar”.
+- Na barra lateral esquerda da página inicial do ZeroPaper clique no ícone da Engrenagem: "Minhas finanças" -> “Importar extrato bancário” -> ”Selecione um arquivo”. Localize na pasta “.ofx” o arquivo correspondente ao mês do demonstrativo e importe-o para o ZeroPaper, depois clique em “Enviar”.
 
 - Consulte o extrato e vá preenchendo corretamente todos os campos, categorize os itens, por fim cheque se as despesas e as receitas finais do demonstrativo estão de acordo com o extrato.
 
